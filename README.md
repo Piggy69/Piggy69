@@ -1,9 +1,8 @@
 - 👀 Hi! After more than 20 years career I still love programming.
-- 
 - I am very interested in IoT and I am currently developing an IoT Software Platform.
 - I am also very interested in developing software for Financial Markets.
 
-The technologies I prefer are .Net/.NetCore, Visual Studio, SQL Server, Azure... and more.
+The technologies I prefer are .Net/.NetCore, Visual Studio, SQL Server, Azure... (all the Microsoft stack...) and more.
 
 <!---
 Piggy69/Piggy69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
